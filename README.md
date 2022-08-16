@@ -4,6 +4,9 @@
 The purpose of the analysis is to determine the number of retiring employees and identify employees who are eligible to participate in a mentorship program. 
 ## Results 
 •	Senior Engineer is the title leading retiring titles, followed by Senior Staff and Engineer
+
+![image](https://user-images.githubusercontent.com/107721712/184784904-ad7f68f2-a0f1-4e3b-b75d-1e17f5782b84.png)
+
 •	First and Last Name with a title can not become unique identifiers to locate an employee since there are more than one people who has same title and same name in the unique_titles table. Therefore, only employee number is the unique key. 
 •	Only 1550 employees are eligible for the mentorship with birth date in 1965 
 •	No manager is eligible for the mentorship program 
